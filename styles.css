@@ -1,0 +1,19 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+  font-size: 15px;
+  padding: 0;
+}
+
+.creppe-list {
+  text-align: left;
+}
